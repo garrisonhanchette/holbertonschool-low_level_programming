@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	        printf "\n%s\n" "\"Programming is like building a multilingual puzzle");
-		        return (0);
-}i
+	printf "\n%s\n" "with proper grammar, but the outcome is a piece of art");
+	return (0);
+}
