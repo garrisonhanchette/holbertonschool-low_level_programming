@@ -3,7 +3,7 @@
  *
  * Return: Always 0 (success)
  */
-nt main(void)
+int main(void)
 {
 	        printf "\n%s\n" "\"Programming is like building a multilingual puzzle");
 		        return (0);
