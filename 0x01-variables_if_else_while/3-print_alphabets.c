@@ -17,6 +17,6 @@ char x;
 	{
 		putchar (x);
 	}
-		putchar (/n);
+		putchar ('\n');
 return (0);
 }
