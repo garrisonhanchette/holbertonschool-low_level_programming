@@ -11,13 +11,13 @@ int main(void)
 char x;
 for (x = 'a'; x <= 'z'; x++)
 	{
-	}
-	if (x != 'q' && x != 'e')
+		if (x != 'q' && x != 'e')
+			{
+			putchar(x);
+			}
 		{
-		putchar(x);
+		putchar('\n');
 		}
-	{
-	putchar('\n');
 	}
 return (0);
 }
