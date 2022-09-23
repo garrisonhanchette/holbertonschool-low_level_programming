@@ -1,18 +1,20 @@
 #include "main.h"
 
 /**
- * main - Check description
- * Description: It prints _putchar, followed by a new line.
- * Return: 0.
+ * main -  prints Holberton, followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char word[9] = "_putchar";
-	int i;
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 
-	for (i = 0; i < 9; i++)
-		_putchar(word[i]);
-	_putchar('\n');
-
-	return (0);
+return (0);
 }
