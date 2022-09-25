@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_h
+#ifndef main.h
+#define main.h
 
 /* Prototypes */
 
