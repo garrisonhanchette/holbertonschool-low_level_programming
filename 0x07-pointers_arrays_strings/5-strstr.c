@@ -40,7 +40,8 @@ char *_strstr(char *haystack, char *needle)
 			{
 				break
 			}
-			b = needle;
-		}
-		return (NULL);
+		{	
+		b = needle;
+	}
+	return (NULL);
 }
