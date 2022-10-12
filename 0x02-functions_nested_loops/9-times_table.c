@@ -2,7 +2,6 @@
 
 /** 
  * times_table - prints 9 times table
- *
  * variable n1 first operator
  * variable n2 second operator
  * p is product
@@ -43,6 +42,7 @@ void times_table(void)
 			if (n2 == 9)
 			{
 				_putchar('\n');
-			}														}
+			}
+		}		
 	}
-}	
+}

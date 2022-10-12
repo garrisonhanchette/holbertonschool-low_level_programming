@@ -1,3 +1,2 @@
-# holbertonschoollowlevelprogramming
-first c project
+read me
 
