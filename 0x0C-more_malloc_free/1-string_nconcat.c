@@ -2,9 +2,13 @@
 
 /**
  * string_nconcat - concats two strings
+ *
  * @s1: str1
+ *
  * @s2: str2
+ *
  * @n: bytes
+ *
  * Return: new string
  */
 
